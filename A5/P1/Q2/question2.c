@@ -3,9 +3,7 @@
 #include <string.h>
 
 /******************The binary tree***********************
- * The following is an illustration of the binary tree
- * I *highly* recommend you test your algorithm on.
- ********************************************************
+ *
  *                        Nicholas
  *                        /      \
  *                     Mark      Parker
