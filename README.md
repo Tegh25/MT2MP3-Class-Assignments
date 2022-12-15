@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository preservves and displays all my class work and assignments from my second-year Programming for Mechatronics course, all written in C.
+This repository preserves and displays all my class work and assignments from my second-year Programming for Mechatronics course, all written in C.
 
 The assignments and questions are separated into the following structure (A3 and A4 were skipped):
 
