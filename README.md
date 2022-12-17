@@ -24,6 +24,6 @@ The assignments and questions are separated into the following structure (A3 and
   - Q1
   - Q2
 
-The answers to each question have been commented and made readable in a way that the purpose of the code can be determined without reading the question.
+The answers to each question have been commented and made readable in a way that the purpose of the code can be determined without reading the question. In most of the C files, the main function has been intentionally left blank as it was not being tested. 
 
 This repo will no longer be updated as I have passed this class.
