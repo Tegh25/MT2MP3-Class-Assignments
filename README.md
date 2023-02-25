@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository preserves and displays all my class work and assignments from my second-year Programming for Mechatronics course, all written in C.
+This repository preserves and displays all my class work, assignments, and my final exam solutions from my second-year Programming for Mechatronics course, all written in C.
 
 The assignments and questions are separated into the following structure (A3 and A4 were skipped):
 
@@ -23,7 +23,13 @@ The assignments and questions are separated into the following structure (A3 and
 - A5: Pointers and Data Structures
   - Q1
   - Q2
+- Final Exam:
+  - Q1
+  - Q2
+  - Q3
+  - Q4
+  - Q5
 
-The answers to each question have been commented and made readable in a way that the purpose of the code can be determined without reading the question. In most of the C files, the main function has been intentionally left blank as it was not being tested. 
+The answers to each assignment question has been commented and made readable in a way that the purpose of the code can be determined without reading the question. In most of the C files, the main function has been intentionally left blank as it was not being tested. The final exam questions have been included in the folder as a pdf file.
 
 This repo will no longer be updated as I have passed this class.
